@@ -1,2 +1,2 @@
 # python
-web scraping and predicting home price
+web scraping and predicting cars price
